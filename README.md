@@ -1,4 +1,4 @@
-### Hi !  Ercan ŞAHİN
+### Hi ! I'm  Ercan ŞAHİN
 
 <div align="center"> <img height="150" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  /> </div>
 </div>
