@@ -1,6 +1,6 @@
 ### Hi ! I'm  Ercan ŞAHİN
 
-<div align="center"> <img height="150" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  /> </div>
+<div align="center"> <img height="150" src="<iframe src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p>"  /> </div>
 </div>
 
 - 🔭 I’m currently working on Software
