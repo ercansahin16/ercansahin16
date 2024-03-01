@@ -45,6 +45,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<img src="https://github.com/ercansahin16/newspaper/blob/main/photo/github%20i%C3%A7indir%2C%20yeri%20de%C4%9Fi%C5%9Fmesin.jpg" width="1000" height="400">
+<img src="https://github.com/ercansahin16/newspaper/blob/main/photo/github%20i%C3%A7indir%2C%20yeri%20de%C4%9Fi%C5%9Fmesin.jpg" width="1000" height="300">
 
 
