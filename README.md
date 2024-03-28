@@ -48,3 +48,10 @@
 <img src="https://github.com/ercansahin16/newspaper/blob/main/photo/github%20i%C3%A7indir%2C%20yeri%20de%C4%9Fi%C5%9Fmesin.jpg" width="1000" height="200">
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercansahin16&show_icons=true&locale=en&layout=compact" alt="ercansahin16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ercansahin16&show_icons=true&locale=en" alt="ercansahin16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ercansahin16&" alt="ercansahin16" /></p>
+
+
