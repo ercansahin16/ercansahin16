@@ -1,14 +1,6 @@
 
 - 🔭Hi ! I'm  Ercan ŞAHİN
 
-- 🌱I am a Frontend Developer who is passionate about web technologies.
-
-- ✨I use technologies such as HTML, CSS, JavaScript, React, and modern CSS tools (CSS5, SASS) to create user-focused, innovative web experiences.
-
-- ✨I aim to write clean code, follow best practices, and constantly learn.
-
-
-- ✨  He's currently working on a project, coming soon...
 
 
 <div align="center">
