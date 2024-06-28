@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ercansahin16&label=Profile%20views&color=0e75b6&style=flat" alt="ercansahin16" /> </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="margin: 0;">Code is Art.</h3>
-  <p > <img align="right" src="https://komarev.com/ghpvc/?username=ercansahin16&label=Profile%20views&color=0e75b6&style=flat" alt="ercansahin16" /> </p>
-</div>
+
+ 
+  <p >  <h3 align="left">Code is Art.</h3><img align="right" src="https://komarev.com/ghpvc/?username=ercansahin16&label=Profile%20views&color=0e75b6&style=flat" alt="ercansahin16" /> </p>
+
 
 
 
