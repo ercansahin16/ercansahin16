@@ -44,7 +44,7 @@
 
 
 
-<img src="https://github.com/ercansahin16/newspaper/blob/main/photo/github%20i%C3%A7indir%2C%20yeri%20de%C4%9Fi%C5%9Fmesin.jpg" width="1000" height="200">
+<img src="https://github.com/ercansahin16/newspaper/blob/main/photo/github%20i%C3%A7indir%2C%20yeri%20de%C4%9Fi%C5%9Fmesin.jpg" width="1000" height="300">
 
 
 
