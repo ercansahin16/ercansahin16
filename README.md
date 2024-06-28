@@ -14,12 +14,13 @@
 
 
 
+<h3 align="center">Connect with me:</h3>
 
-
-<div align="center">
+<!--<div align="center">
   
   <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
 </div>
+-->
 
 <div align="center">
 
