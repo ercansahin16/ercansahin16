@@ -8,8 +8,8 @@
 
 
  
- [  <h3 align="left">Code is Art.</h3>]
- [<img align="right" src="https://komarev.com/ghpvc/?username=ercansahin16&label=Profile%20views&color=0e75b6&style=flat" alt="ercansahin16" /> ]
+ <h3 align="left">Code is Art.</h3>
+ <img align="right" src="https://komarev.com/ghpvc/?username=ercansahin16&label=Profile%20views&color=0e75b6&style=flat" alt="ercansahin16" /> 
 
 
 
