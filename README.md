@@ -50,7 +50,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230082C9.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)]
 
 
 
