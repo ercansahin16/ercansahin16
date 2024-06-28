@@ -48,10 +48,12 @@
 
 
 
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ercansahin16&show_icons=true&locale=en" alt="ercansahin16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ercansahin16&" alt="ercansahin16" /></p>
+-->
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercansahin16&show_icons=true&locale=en&layout=compact" alt="ercansahin16" /></p>
 -->
