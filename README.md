@@ -106,10 +106,11 @@
 
 
 
-
-
 <p align="center">
  <h3>## GitHub İstatistiklerim</h3>
+</p>
+<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
