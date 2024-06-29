@@ -113,9 +113,7 @@
 
 
 
-## Kodlama Yarışmaları
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=ercansahin16)](https://leetcode.com/ercansahin16)
 
 
 
