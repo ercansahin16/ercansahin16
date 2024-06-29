@@ -105,4 +105,10 @@
 -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercansahin16&show_icons=true&locale=en&layout=compact" alt="ercansahin16" /></p>
 
+## GitHub İstatistiklerim
+
+![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercansahin16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
+
+
 
