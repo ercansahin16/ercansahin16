@@ -110,9 +110,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
 
-## Commit Grafiği
 
-![Ercan's Commit Grafiği](https://github-readme-streak-stats.herokuapp.com/?user=ercansahin16&theme=radical)
+
+
+## Öne Çıkan Gists
+
+- [Gist Title 1](https://gist.github.com/ercansahin16/gist1)
+- [Gist Title 2](https://gist.github.com/ercansahin16/gist2)
 
 
 
