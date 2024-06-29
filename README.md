@@ -113,10 +113,9 @@
 
 
 
-## Öne Çıkan Gists
+## Kodlama Yarışmaları
 
-- [Gist Title 1](https://gist.github.com/ercansahin16/gist1)
-- [Gist Title 2](https://gist.github.com/ercansahin16/gist2)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/?username=ercansahin16)](https://leetcode.com/ercansahin16)
 
 
 
