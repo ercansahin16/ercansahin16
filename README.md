@@ -110,8 +110,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ercansahin16&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
 
 
 
