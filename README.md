@@ -110,8 +110,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ercansahin16&repo=project1&theme=radical)](https://github.com/ercansahin16/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ercansahin16&repo=project2&theme=radical)](https://github.com/ercansahin16/project2)
+## Commit Grafiği
+
+![Ercan's Commit Grafiği](https://github-readme-streak-stats.herokuapp.com/?user=ercansahin16&theme=radical)
 
 
 
