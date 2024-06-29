@@ -111,7 +111,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
 
 
-![Ercan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercansahin16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
+
 
 
 
