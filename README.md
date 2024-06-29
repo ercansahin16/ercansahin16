@@ -107,8 +107,13 @@
 
 ## GitHub İstatistiklerim
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)
+
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical)</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 
